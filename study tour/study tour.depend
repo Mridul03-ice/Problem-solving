@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648229662 source:c:\users\abdul wahab mridul\desktop\mridul code\study tour\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<bits/stdc++.h>
+	<cctype>
+

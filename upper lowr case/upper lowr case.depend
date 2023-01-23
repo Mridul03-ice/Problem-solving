@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647965481 source:c:\users\abdul wahab mridul\desktop\mridul code\upper lowr case\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cctype>
+

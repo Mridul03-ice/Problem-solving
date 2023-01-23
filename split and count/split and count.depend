@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648696105 source:c:\users\abdul wahab mridul\desktop\mridul code\split and count\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<cctype>
+

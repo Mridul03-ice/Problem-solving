@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648398483 source:c:\users\abdul wahab mridul\desktop\mridul code\codechef turbo sort\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<algorithm>
+

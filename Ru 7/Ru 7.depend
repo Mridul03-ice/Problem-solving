@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1642227121 source:c:\users\abdul wahab mridul\desktop\mridul code\ru 7\main.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<math.h>
+	<algorithm>
+
